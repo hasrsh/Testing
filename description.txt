@@ -1,0 +1,10 @@
+This, Application is build as the task is given.
+In this project the extra model is created by the name of 'Teacher', 
+this is not a part of task , I have used that for practicing purpose.
+
+
+This App has:
+--> Three pages login/logout , home, job seeke.
+--> Home page has job listing
+--> pagination feature has been added
+--> job applied function is also there
